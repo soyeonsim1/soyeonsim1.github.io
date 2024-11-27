@@ -5,9 +5,21 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Topics
+  - name: Publications
     url: tags/
     weight: 20
-  - name: Uses
+  - name: Presentations
     url: uses/
     weight: 30
+  - name: Teaching
+    url: uses/
+    weight: 40
+  - name: Awards & Grants
+    url: uses/
+    weight: 50
+  - name: CV
+    url: uses/
+    weight: 60
+  - name: Photos
+    url: uses/
+    weight: 70
