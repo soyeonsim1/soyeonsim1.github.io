@@ -2,22 +2,12 @@
 # Display name
 title: Soyeon Sim
 
-# Name pronunciation (optional)
-name_pronunciation: Soyeon
-
 # Full name (for SEO)
 first_name: Soyeon
 last_name: Sim
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
-
-# Role/position/tagline
-role: Doctoral Student at GSU
 
 # Organizations/Affiliations to show in About widget
 organizations:
