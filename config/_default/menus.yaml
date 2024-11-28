@@ -10,14 +10,14 @@ main:
     weight: 20
     share: false
   - name: Teaching
-    url: uses/
+    url: research/
     weight: 30
   - name: Awards & Grants
-    url: uses/
+    url: research/
     weight: 40
   - name: CV
-    url: uses/
+    url: research/
     weight: 50
   - name: Photos
-    url: uses/
+    url: research/
     weight: 60
