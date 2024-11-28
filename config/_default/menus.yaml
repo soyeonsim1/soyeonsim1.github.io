@@ -8,6 +8,7 @@ main:
   - name: Research
     url: research/
     weight: 20
+    share: false
   - name: Teaching
     url: uses/
     weight: 30
