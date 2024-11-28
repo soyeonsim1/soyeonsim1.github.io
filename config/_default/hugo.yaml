@@ -11,6 +11,12 @@ baseURL: 'https://example.com/' # Website URL
 ############################
 
 cascade:
+  - _target:
+      path: /research/**
+      kind: page
+      share: false
+      reading_time: true
+
   # Blog post options
   - _target:
       path: /blog/**
