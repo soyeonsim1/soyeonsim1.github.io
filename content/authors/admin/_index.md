@@ -34,12 +34,12 @@ profiles:
 highlight_name: true
 
 education:
- - area: Ph.D. in Applied Linguistics & ESL
-   institution: Georgia State University
-   date_start: 2022
-   date_end: 2024
-   summary: |
-     GPA: 4.19/4.3
+  - area: Ph.D. in Applied Linguistics & ESL
+    institution: Georgia State University
+    date_start: 2022
+    date_end: 2024
+    summary: |
+      GPA: 4.19/4.3
   - area: M. A. in English Education (Teaching English as a Foreign Language)
     institution: Ewha Womans University
     date_start: 2018
