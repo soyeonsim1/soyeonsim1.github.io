@@ -63,12 +63,6 @@ education:
       Major GPA: 4.13/4.3
 
       Secondary English Teacher Certificate (Ministry of Education, South Korea)
-      
-            
-     
-            
-     
-
 # Author's website URL
 website: ""
 ---
