@@ -33,10 +33,21 @@ profiles:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# education:
-#   - courses:
-#       institution: "Massachusetts Institute of Technology"
-#       year: 2017
+education:
+ - area: Ph.D. in Applied Linguistics & ESL
+   institution: Georgia State University
+   date_start: 2022
+   date_end: present
+   summary: |
+     GPA: 4.19/4.3
+
+  - area: M. A. in English Education (Teaching English as a Foreign Language)
+    institution: Ewha Womans University
+    date_start: 2018
+    date_end: 2020
+    summary: |
+      GPA: 4.3/4.3
+      Thesis: The active and passive voice in the methods section of applied linguistics research articles
 
 
 # Author's website URL
