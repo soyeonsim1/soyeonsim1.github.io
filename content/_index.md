@@ -16,7 +16,7 @@ sections:
     content:
       # The user's folder name in content/authors/
       username: admin
-      date_format: 'January 2006'
+      date_format: 2006
     design:
       spacing:
         padding: [0, 0, 0, 0]
