@@ -38,21 +38,3 @@ website: ""
 ---
 
 Hello. I am a PhD student in the Department of Applied Linguistics and ESL at Georgia State University. My research interests include second language acquisition, technology-enhanced language learning, learner corpora, pragmatics, and usage-based linguistics. I am interested in how new forms of technology can facilitate language learning in autonomous learning contexts as well as classroom settings. I am also interested in gaining insights into L2 learners’ developmental trajectories from learner corpora.
-
-
-EDUCATION
-Georgia State University	Atlanta, GA, USA
-(In progress) Ph.D. in Applied Linguistics & ESL	2022 - present
-GPA: 4.19/4.3
-Advisor: Dr. Ute Römer-Barron
-
-Ewha Womans University	Seoul, South Korea
-M. A. in English Education (Teaching English as a Foreign Language)	2018 - 2020
-Thesis: The active and passive voice in the methods section of applied linguistics research articles
-GPA: 4.3/4.3
-
-Ewha Womans University	Seoul, South Korea
-B. A. in English Education	2014 - 2017
-GPA: 4.05/4.3 (summa cum laude)
-Major GPA: 4.13/4.3
-Secondary English Teacher Certificate (Ministry of Education, South Korea)

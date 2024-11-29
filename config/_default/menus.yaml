@@ -16,7 +16,7 @@ main:
     url: research/
     weight: 40
   - name: CV
-    url: research/
+    url: blog/
     weight: 50
   - name: Photos
     url: research/
