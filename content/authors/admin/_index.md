@@ -33,10 +33,10 @@ profiles:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-education:
-  - courses:
-      institution: "Massachusetts Institute of Technology"
-      year: 2017
+# education:
+#   - courses:
+#       institution: "Massachusetts Institute of Technology"
+#       year: 2017
 
 
 # Author's website URL
