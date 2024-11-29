@@ -40,11 +40,6 @@ education:
     date_end: 2024
     summary: |
       GPA: 4.19/4.3
-            
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: M. A. in English Education (Teaching English as a Foreign Language)
     institution: Ewha Womans University
     date_start: 2018
