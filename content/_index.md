@@ -12,10 +12,11 @@ sections:
         padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
+  - block: resume-experience
     content:
       # The user's folder name in content/authors/
       username: admin
+      date_format: 'January 2006'
     design:
       spacing:
         padding: [0, 0, 0, 0]
