@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Creator's Blog (Hugo Theme)" # Website name
+title: "Soyeon Acadamic Website" # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -16,6 +16,7 @@ cascade:
       kind: page
       share: false
       reading_time: true
+      show_breadcrumb: false
 
   # Blog post options
   - _target:
