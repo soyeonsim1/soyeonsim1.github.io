@@ -34,49 +34,27 @@ profiles:
 highlight_name: true
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Applied Linguistics & ESL
+    institution: Georgia State University
+    date_start: 2022
+    date_end: 2024
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-# education:
-#   - area: Ph.D. in Applied Linguistics & ESL
-#     institution: Georgia State University
-#     date_start: 2022
-#     date_end: 2024
-#     summary: |
-#       GPA: 4.19/4.3
-#   - area: M. A. in English Education (Teaching English as a Foreign Language)
-#     institution: Ewha Womans University
-#     date_start: 2018
-#     date_end: 2020
-#     summary: |
-#       GPA: 4.3/4.3
-#       Thesis: The active and passive voice in the methods section of applied linguistics research articles
-#   - area: B.A. in English Education
-#     institution: Ewha Womans University
-#     date_start: 2014
-#     date_end: 2017
-#     summary: |
-#       GPA: 4.05/4.3 (summa cum laude)
-#       Major GPA: 4.13/4.3
-#       Secondary English Teacher Certificate (Ministry of Education, South Korea)
+      GPA: 4.19/4.3
+  - area: M. A. in English Education (Teaching English as a Foreign Language)
+    institution: Ewha Womans University
+    date_start: 2018
+    date_end: 2020
+    summary: |
+      GPA: 4.3/4.3
+      Thesis: The active and passive voice in the methods section of applied linguistics research articles
+  - area: B.A. in English Education
+    institution: Ewha Womans University
+    date_start: 2014
+    date_end: 2017
+    summary: |
+      GPA: 4.05/4.3 (summa cum laude)
+      Major GPA: 4.13/4.3
+      Secondary English Teacher Certificate (Ministry of Education, South Korea)
 
 # Author's website URL
 website: ""
