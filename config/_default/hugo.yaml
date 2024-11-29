@@ -11,19 +11,12 @@ baseURL: 'https://example.com/' # Website URL
 ############################
 
 cascade:
-  - _target:
-      path: /research/**
-      kind: page
-      share: false
-      reading_time: true
-      show_breadcrumb: false
-
   # Blog post options
   - _target:
       path: /blog/**
       kind: page
     pager: true
-    editable: true
+    editable: false
     hide_date: false
     show_date_updated: true
     reading_time: true
@@ -35,7 +28,17 @@ cascade:
     header:
       navbar:
         enable: true
-
+  - _target:
+      path: /research/**
+      kind: page
+    pager: true
+    editable: false
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: false
 ############################
 ## LANGUAGE
 ############################
