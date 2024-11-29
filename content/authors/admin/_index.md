@@ -40,21 +40,21 @@ education:
     date_end: 2024
     summary: |
       GPA: 4.19/4.3
-  - area: M. A. in English Education (Teaching English as a Foreign Language)
-    institution: Ewha Womans University
-    date_start: 2018
-    date_end: 2020
-    summary: |
-      GPA: 4.3/4.3
-      Thesis: The active and passive voice in the methods section of applied linguistics research articles
-  - area: B.A. in English Education
-    institution: Ewha Womans University
-    date_start: 2014
-    date_end: 2017
-    summary: |
-      GPA: 4.05/4.3 (summa cum laude)
-      Major GPA: 4.13/4.3
-      Secondary English Teacher Certificate (Ministry of Education, South Korea)
+  # - area: M. A. in English Education (Teaching English as a Foreign Language)
+  #   institution: Ewha Womans University
+  #   date_start: 2018
+  #   date_end: 2020
+  #   summary: |
+  #     GPA: 4.3/4.3
+  #     Thesis: The active and passive voice in the methods section of applied linguistics research articles
+  # - area: B.A. in English Education
+  #   institution: Ewha Womans University
+  #   date_start: 2014
+  #   date_end: 2017
+  #   summary: |
+  #     GPA: 4.05/4.3 (summa cum laude)
+  #     Major GPA: 4.13/4.3
+  #     Secondary English Teacher Certificate (Ministry of Education, South Korea)
 
 # Author's website URL
 website: ""
