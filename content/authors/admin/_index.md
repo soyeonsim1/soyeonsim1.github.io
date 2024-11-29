@@ -61,8 +61,13 @@ education:
       GPA: 4.05/4.3 (summa cum laude)
             
       Major GPA: 4.13/4.3
-            
+
       Secondary English Teacher Certificate (Ministry of Education, South Korea)
+      
+            
+     
+            
+     
 
 # Author's website URL
 website: ""
